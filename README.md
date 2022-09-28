@@ -34,3 +34,12 @@ The password entry window:
 Status Tray for quick access to the program:
 
 ![WebQuit](./img/5.png)
+
+
+---
+
+- The software supports both x86_64 and arm64 architecture, two separate files will be available.
+- Support for macOS 11 (Big Sur) - macOS 13 (Ventura).
+
+---
+To create a project, a library was taken[Mongoose](https://github.com/cesanta/mongoose)
