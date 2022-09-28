@@ -20,3 +20,17 @@ By functionality:
 Main window:
 
 ![WebQuit](./img/1.png)
+
+
+Settings window, for password access:
+
+![WebQuit](./img/3.png)
+
+
+The password entry window:
+
+![WebQuit](./img/4.png)
+
+Status Tray for quick access to the program:
+
+![WebQuit](./img/5.png)
