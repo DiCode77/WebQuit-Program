@@ -13,3 +13,10 @@ By functionality:
 - Output of log information.
 - For a local network, the program automatically selects an IP.
 - Convenient and simple functionality.
+
+
+---
+
+Main window:
+
+![WebQuit](./img/1.png)
