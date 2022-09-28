@@ -17,6 +17,16 @@ By functionality:
 
 ---
 
+How the program works:
+ - On the local network:
+   It is enough to generate an IP (on the main window, press "A"), then the correct IP address and port will be selected.
+   
+ - In the global network:
+   To access the storage on the global network, you must specify the desired IP, usually the IP of your computer, and the correct port, it can be "8080" or some other. Important! you need an external IP that your telecommunications provider provides, and set up forwarding requests from an external IP to an internal IP.
+   
+---
+
+
 Main window:
 
 ![WebQuit](./img/1.png)
