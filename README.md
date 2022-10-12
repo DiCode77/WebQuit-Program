@@ -53,3 +53,4 @@ Status Tray for quick access to the program:
 
 ---
 To create a project, a library was taken [Mongoose](https://github.com/cesanta/mongoose)
+The program is developed in C++
